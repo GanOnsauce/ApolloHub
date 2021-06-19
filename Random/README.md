@@ -9,7 +9,7 @@ Try to get as many balls in the trash bin
 Alright, I have a friend and he made a game on scratch. You can find his amazing projects <a href="https://scratch.mit.edu/users/doggoMann18/">HERE</a>.
 As a joke I decided to remix the game and put something very random.
 <br>
-To control the game  W A S D to move, don't get hit by the circle. GLGF
+To control the game  W A S D to move, don't get hit by the circle. GLHF
 <br>
 (LegitFrodo's Acc)
 

@@ -10,3 +10,10 @@ Animations- Me
 Coding - Me
 
 SB3 - HTML - https://sheeptester.github.io/htmlifier/
+
+
+# Shortcut Links To Folders
+
+<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/GlideToVertterre">Glide To Vertterre</a>
+<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/duckhunter">Duck Hunter</a>
+<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/minerbeta">Miner Betat</a>

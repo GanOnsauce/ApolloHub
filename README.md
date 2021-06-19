@@ -24,3 +24,8 @@ SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HT
 <a href="https://github.com/GanOnsauce/HTML-Games/tree/main/duckhunter">Duck Hunter</a>
 
 <a href="https://github.com/GanOnsauce/HTML-Games/tree/main/minerbeta">Miner Beta</a>
+
+<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/Random">Random</a>
+
+# The Random Folder
+These are sort of like mini projects that arent full games but I thought I would like to include.

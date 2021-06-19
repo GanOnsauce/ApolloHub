@@ -6,4 +6,5 @@ This game is so easy even a five year old has no problem. Wait till the cross ha
 When they shoot, just push the up arrow (/\) key to avoid being shot. You only have 3 lives, make er count
 # TL;DR
 Space bar - Shoot
+
 Up arrow - dodge

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/HTML-Games/assets/css/style.css?v=3afb98fb50d56a7d59e14029d8f509e58003173c">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>HTML-Games | Fun HTML GAMES for free</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="HTML-Games" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Fun HTML GAMES for free" />
+<meta property="og:description" content="Fun HTML GAMES for free" />
+<link rel="canonical" href="https://ganonsauce.github.io/HTML-Games/" />
+<meta property="og:url" content="https://ganonsauce.github.io/HTML-Games/" />
+<meta property="og:site_name" content="HTML-Games" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="HTML-Games" />
+<script type="application/ld+json">
+{"description":"Fun HTML GAMES for free","url":"https://ganonsauce.github.io/HTML-Games/","@type":"WebSite","headline":"HTML-Games","name":"HTML-Games","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="/HTML-Games/">
+          <h1>HTML-Games</h1>
+        </a>
+        <h2>Fun HTML GAMES for free</h2>
+
+        <section id="downloads">
+          
+          <a href="https://github.com/GanOnsauce/HTML-Games" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h1 id="html-games">HTML-Games</h1>
+<p>A repository where you can find a whole buncha HTML games. In Each folder you will find 2 things. A README with  the contols and where to find it online and the actual game. All of these games can be found online below. But they are also here and less laggy. 
+<br />
+<br />
+ <a href="https://scratch.mit.edu/users/legitfrodo/">Main Scratch</a>
+<br />
+ <a href="https://scratch.mit.edu/users/ApolloSMH/">Alt</a></p>
+
+<h1 id="credits">Credits</h1>
+<p>Games - Me
+<br />
+Animations- Me
+<br />
+Coding - Me
+<br />
+SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester’s HTMLifier</a></p>
+
+<h1 id="shortcut-links-to-folders">Shortcut Links To Folders</h1>
+
+<p><a href="https://github.com/GanOnsauce/HTML-Games/tree/main/GlideToVertterre">Glide To Vertterre</a></p>
+
+<p><a href="https://github.com/GanOnsauce/HTML-Games/tree/main/duckhunter">Duck Hunter</a></p>
+
+<p><a href="https://github.com/GanOnsauce/HTML-Games/tree/main/minerbeta">Miner Beta</a></p>
+
+<p><a href="https://github.com/GanOnsauce/HTML-Games/tree/main/Random">Random</a></p>
+
+<p><a href="https://github.com/GanOnsauce/HTML-Games/tree/main/Escaping%20The%20Spaceship">Escaping The Spaceship</a></p>
+
+<h1 id="the-random-folder">The Random Folder</h1>
+<p>These are sort of like mini projects that arent full games but I thought I would like to include.</p>
+
+      </section>
+    </div>
+
+    
+  </body>
+</html>

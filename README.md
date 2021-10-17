@@ -39,6 +39,6 @@ These are sort of like mini projects that arent full games but I thought I would
 
 1. Head to the top of the page and download the zip file,
 2.  Open it in your file, finder or file explorer app.
-3.  Find the file whitch should be named `HTML-Games-main.zip`
-4.  Open it and find the game you want to play, the instructions are in the `Markdown` Format
+3.  Find the file whitch should be named `ApolloHub-main.zip`
+4.  Open the file named `ApolloHub_Client.html`, the instructions are also there too
 5.  Have Fun!

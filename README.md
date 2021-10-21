@@ -11,7 +11,9 @@ A repository where you can find a whole buncha free games.
 
 # Credits
 @LegitFrodo
+<br>
 @GanOnsauce
+<br>
 SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HTMLifier</a>
 
 

@@ -16,21 +16,6 @@ A repository where you can find a whole buncha free games.
 <br>
 SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HTMLifier</a>
 
-
-
-# Shortcut Links To Folders
-
-<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/GlideToVertterre">Glide To Vertterre</a>
-
-<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/duckhunter">Duck Hunter</a>
-
-<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/minerbeta">Miner Beta</a>
-
-<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/Random">Random</a>
-
-<a href="https://github.com/GanOnsauce/HTML-Games/tree/main/Escaping%20The%20Spaceship">Escaping The Spaceship</a>
-
-
 # How To Download
 
 1. Head to the top of the page and download the zip file,

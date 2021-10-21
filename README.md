@@ -10,12 +10,8 @@ A repository where you can find a whole buncha free games.
  <a href="https://scratch.mit.edu/users/ApolloSMH/">Alt</a>
 
 # Credits
-Games - Me
-<br>
-Animations- Me
-<br>
-Coding - Me
-<br>
+@LegitFrodo
+@GanOnsauce
 SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HTMLifier</a>
 
 

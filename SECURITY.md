@@ -1,4 +1,4 @@
-## Supported Versions of ApolloHub
+## Security Supported Versions of ApolloHub
 
 
 
@@ -16,4 +16,12 @@
 | Mac OS | :white_check_mark: |
 | Windows 7 & 10  | :white_check_mark: |
 | Chrome OS   | :white_check_mark:               |
+
+## Requirements
+
+| Requirements |
+| ------- |
+| One of the OS above  |
+| 30 - 40MB of spare storage|
+| ~ 50MB of RAM| |
 

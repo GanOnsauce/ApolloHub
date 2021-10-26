@@ -1,18 +1,21 @@
 ## <a href="https://github.com/GanOnsauce/ApolloHub/archive/refs/heads/main.zip"><img src="http://react.rocks/images/converted/downloadbutton.jpg" alt="Download Me (ZIP)" style="width:200px;height:100px;"></a>
 
-
+<a href=" https://github.com/GanOnsauce/ApolloHub/blob/main/SECURITY.md ">Computer Requirements Here</a>
 # ApolloHub
-ApolloHub is a simple, fun way to play games in the simplest syntax, HTML. No funny, fancy language. Just in your browser. Thank you to <a href="https://scratch.mit.edu/users/legitfrodo/">legitfrodo</a> & <a href="https://scratch.mit.edu/users/ApolloSMH/">ApolloSMH</a> For being a test subject for this experiment. We hope you enjoy this small project taking form since April of 2021. (How to Download below \/ )
+ApolloHub is a simple, fun way to play games in the simplest syntax, HTML. No funny, fancy language. Just in your browser. Thank you to <a href="https://scratch.mit.edu/users/legitfrodo/">legitfrodo</a> & <a href="https://scratch.mit.edu/users/ApolloSMH/">ApolloSMH</a> For being a test subject for this experiment. We hope you enjoy this small project taking form since April of 2021. (How to Download below ) 
+
+## Play on the Browser
+With the newest ApolloHub update, you do NOT have to download the repo to play the game. Head to our website and play the games there through the games tab at 120 FPS! 
 
 
-# Credits
+## Credits
 @LegitFrodo
 <br>
 @GanOnsauce
 <br>
 SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HTMLifier</a>
 
-# How To Download
+## How To Download
 
 1. Head to the top of the page and download the zip file,
 2.  Open it in your file (CHROME OS), finder (MAC OS) or file explorer (WINDOWS) app.

@@ -23,5 +23,5 @@
 | ------- |
 | One of the OS above  |
 | 30 - 40MB of spare storage|
-| ~ 50MB of RAM| |
+| ~ 50MB of RAM |
 

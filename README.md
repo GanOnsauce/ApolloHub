@@ -2,7 +2,7 @@
 
 
 # ApolloHub
-ApolloHub is a simple, fun way to play games in the simplest syntax, HTML. No funny, fancy language. Just in your browser. Thank you to <a href="https://scratch.mit.edu/users/legitfrodo/">legitfrodo</a> & <a href="https://scratch.mit.edu/users/ApolloSMH/">ApolloSMH</a> For being a test subject for this experiment. We hope you enjoy this small project taking form since April of 2021. (How to Download below \/.
+ApolloHub is a simple, fun way to play games in the simplest syntax, HTML. No funny, fancy language. Just in your browser. Thank you to <a href="https://scratch.mit.edu/users/legitfrodo/">legitfrodo</a> & <a href="https://scratch.mit.edu/users/ApolloSMH/">ApolloSMH</a> For being a test subject for this experiment. We hope you enjoy this small project taking form since April of 2021. (How to Download below \/ )
 
 
 # Credits

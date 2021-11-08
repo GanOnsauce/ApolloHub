@@ -19,5 +19,5 @@ SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HT
 1. Head to the top of the page and download the zip file,
 2.  Open it in your file (CHROME OS), finder (MAC OS) or file explorer (WINDOWS) app.
 3.  Find the file whitch should be named `ApolloHub-main.zip`
-4.  Open the file named `ApolloHub_Client.html` Or ApolloHubClient.js (for the dedicated) , the instructions are also there too before you launch your game
+4.  Open the file named `ApolloHub_Client.html` , the instructions are also there too before you launch your game
 5.  Have Fun!

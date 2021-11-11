@@ -21,3 +21,13 @@ SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HT
 3.  Find the file whitch should be named `ApolloHub-main.zip`
 4.  Open the file named `ApolloHub_Client.html` , the instructions are also there too before you launch your game
 5.  Have Fun!
+
+### Older Updates Downloads
+To download older updates <a href="https://ganonsauce.github.io/ApolloHub/docs/downloadoptions.html">Click Here</a> We also have put the stable 1.3 update as a pull request. 
+
+#### How To Access Stable 1.3 Update Pull Request
+
+1. Download This Link <a href="https://github.com/GanOnsauce/ApolloHub/archive/refs/heads/Stable-1.3.zip">Here</a>
+2. Open ApolloHub-Stable.1.3.zip
+3. Play games by opening the html files in the folders. past me was really dumb so there was no easy way to open it.
+4. Enjoy!

@@ -8,9 +8,13 @@ With the newest ApolloHub update, you do NOT have to download the repo to play t
 
 
 ## Credits
-@LegitFrodo
+<a href="https://github.com/LegitFrodo">LegitFrodo</a> (GitHub guy NOT scratch)
 <br>
-@GanOnsauce
+<a href="https://github.com/GanOnsauce">GanOnsauce</a>
+<br>
+<a href="https://scratch.mit.edu/users/legitfrodo/">legitfrodo </a> (scratch guy NOT github)
+<br>
+<a href="https://scratch.mit.edu/users/ApolloSMH/">ApolloSMH</a>
 <br>
 SB3 - HTML - <a href="https://sheeptester.github.io/htmlifier/">Sheeptester's HTMLifier</a>
 
